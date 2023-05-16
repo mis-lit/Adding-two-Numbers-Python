@@ -1,7 +1,7 @@
 # Program to div two numbers 
   
 number1 = input("First number: ") 
-number2 = input("\nSecond number: ") 
+number2 = input("\n Second number: ") 
 
 # div two numbers 
 # User might also enter float numbers 
